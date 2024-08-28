@@ -1,6 +1,6 @@
 
     "--------------------------------------------------------------------------"
-    " Python Script: Number-Detection_CNN_Python"
+    " Python Script: Number-Detection_KNN_Python"
     "--------------------------------------------------------------------------"
     ""
     " Description: This script demonstrates a Python Code."
